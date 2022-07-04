@@ -4,6 +4,7 @@ a icon pack for jailbroken iphones
 # Requirements
 SnowBoard tweak. you can find it in Cydia
 # Instructions
+make sure you get the **release** zip not sourse zip
 Go to filza and go to the /Library/Themes/
 create a new folder and call it what you would like.
 now unzip the release zip and copy into the folder that you just created.
